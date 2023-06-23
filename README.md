@@ -8,7 +8,7 @@
 * [Deployed Link](#deployed-link)
 * [Usage](#usage)
 * [Tech](#tech)
-* [Screenshots](#screenshot)
+* [Screenshots](#screenshots)
 * [Notes](#Notes)
 * [Questions](#questions)
 
