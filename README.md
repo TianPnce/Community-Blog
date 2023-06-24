@@ -1,6 +1,7 @@
 # Community Tech Blog
 
 ## Description
+For this assignment we were tasked to make a blog where the user can signup/login, post, comment, and edit/delete the comments and posts. The dashboard is were you are able to view and comment on other users post if you do not have an account you will be redirected to the login page. This assignment was very tough for me, however the finished product was worth it and I did learn a lot in the end.
 
 ## Table of Contents
 * [User Story](#user-story)
@@ -8,6 +9,7 @@
 * [Deployed Link](#deployed-link)
 * [Usage](#usage)
 * [Tech](#tech)
+* [Example](#example)
 * [Screenshots](#screenshots)
 * [Notes](#Notes)
 * [Questions](#questions)
@@ -55,6 +57,7 @@ WHEN I am idle on the site for more than a set time
 THEN I am able to view posts and comments but I am prompted to log in again before I can add, update, or delete posts
 ```
 ## Deployed Link
+No link :(
 
 ## Usage
 1. Open terminal
@@ -87,9 +90,15 @@ DB_SESSION_SECRET=''
 - Express-handlebars
 - Express-session
 ```
+## Example
+https://watch.screencastify.com/v/Po58vNFoxYMZ3TMsIrJU
+
 ## Screenshots
+<img width="1439" alt="Screenshot 2023-06-23 at 10 48 00 PM" src="https://github.com/TianPnce/Community-Blog/assets/122128252/e0fc6cb0-fe2b-4978-8dc0-094299aa80e2">
+<img width="1439" alt="Screenshot 2023-06-23 at 10 48 14 PM" src="https://github.com/TianPnce/Community-Blog/assets/122128252/9e4d2039-4e2d-4796-8595-4913b16e16cd">
 
 ## Notes
+I did have a pretty hard time with this assignment, mainly with deploying with Heroku. Everything was trial and error, and I am proud of the outcome.
 
 ## Questions
 [TianPnce](https://github.com/TianPnce)
