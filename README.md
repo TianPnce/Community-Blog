@@ -98,7 +98,7 @@ https://watch.screencastify.com/v/Po58vNFoxYMZ3TMsIrJU
 <img width="1439" alt="Screenshot 2023-06-23 at 10 48 14 PM" src="https://github.com/TianPnce/Community-Blog/assets/122128252/9e4d2039-4e2d-4796-8595-4913b16e16cd">
 
 ## Notes
-I did have a pretty hard time with this assignment, mainly with deploying with Heroku. Everything was trial and error, and I am proud of the outcome.
+I did have a pretty hard time with this assignment, mainly with deploying with Heroku that I am still having issues with deploying. Everything was trial and error, and I am proud of the outcome.
 
 ## Questions
 [TianPnce](https://github.com/TianPnce)
