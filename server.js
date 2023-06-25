@@ -7,7 +7,7 @@ const SequelizeStore = require("connect-session-sequelize")(session.Store);
 require('dotenv').config();
 
 const app = express();
-const PORT = process.env.PORT || 3005;
+const PORT = process.env.PORT || 3001;
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
