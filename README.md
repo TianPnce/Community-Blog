@@ -67,7 +67,7 @@ No link :(
 ```
 DB_NAME=''
 DB_USER=''
-DB_PW=''
+DB_PASSWORD=''
 DB_SESSION_SECRET=''
 ```
 5. Run `Server.js`
